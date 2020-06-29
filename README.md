@@ -24,4 +24,4 @@ The data was obtained from kaggle. Link provided here: [access data on kaggle](h
 
 ## Results 
 1. Distribution of Charges and Age:
-![CvA]( "Logo Title Text 1")
+![CvA](https://github.com/avnikam/Medical_MLR/blob/master/ChargexAge.png  "Logo Title Text 1")
