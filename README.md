@@ -1,4 +1,4 @@
-# Linear Regression of Medical Costs 
+# Regression of Medical Costs 
 
 ## Introduction
 The problem of predictiong medical costs is extremely important to insurance firms. Understanding how variables such as age, sex, bmi, number of children, smoker status and region can impact the charges the person might claim from an insurance company. 
